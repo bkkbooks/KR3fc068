@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖甲丙為弧分甲乙丙丁為弧分自乘正方形丑子丙申小方隅積九其邊丑丙為三庚丑為甲丙之半即根數本以弧分減三折半為根數故甲丙減丑丙折半於庚為庚丑庚壬為根加三以庚丑為廣庚壬為長四率為高成帶縱立方積本以根與根加三相乘以四率再乘為帶縱立方積其面冪為庚壬丑癸帶縱平方形為甲乙丑子申丁磬折形面冪四之一若同以甲寅四率
+  hash: sha256:977f4b6379538efe95bb328bcd3d6127d45256d9d3a69c14c449cb6ad6998f1a
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:4bb2a9cb04ea13660a229d64ecbcf19203cde870010f1c8211c5619c57dc1265

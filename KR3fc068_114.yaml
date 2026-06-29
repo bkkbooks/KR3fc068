@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/114
+seq: 114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:1d03f69bfad2fa604e95ccb69c99c282a36c8e87a48eb803b0f2f33ecde0ccf0

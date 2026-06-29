@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/180
+seq: 180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故置弧分自乘又二十五乘之減一為磬折冪六率乘之為磬折立方積四除之得帶縱立方積又六除之七除之即得八率
+  hash: sha256:81ebf450d0eacf09d4301aa980b9d261078cd9af4fe58972a52689a814752ac8
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:0b4622bb2fa9d7baab1e4a9bbcd7d9584acb420a504245eb9ae4434638d6deec

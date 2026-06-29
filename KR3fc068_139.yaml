@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/139
+seq: 139
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖甲丙為弧分甲乙丙丁為弧紛字成正方形丑子丙申小方隅積四其邊丑丙二庚丑為甲丑之半即根
+  hash: sha256:41a1c7c084aa424da366cefa8cb5bc677c041a0e1fda69ebde440de5085d007f
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:1903c2ce14ecb35f9dcec91cee59cbbd17bd77efb3b3bf80a130b5c5b86edb03

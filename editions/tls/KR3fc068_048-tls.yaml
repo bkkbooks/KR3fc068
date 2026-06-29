@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 即所求通弦單位以下棄之未至單位者依次求之有矢求幾分通弧之一矢此亦奇耦通用術曰置弧分自乘四倍之減四為第一乘數復置四倍自乘數四乘之減四為第二乘數復置四倍自乘數九乘之減四為第三乘數依次列之迺置弧分自乘數除矢本數為第一數次以半徑為連比例第一率弧分自乘數除矢本數又二乘之為第三率矣第一數乘之一率除之得第五率第一乘數乘之四除之又三除之四除之為第二數次置第二數以三率乘之一率除之得第七率第二乘數乘之四除之又五除之六除之為第三數次置第三數以三率乘之一率除之得第九率第
+  hash: sha256:dcfdbd5fd9a7c274e0b649800ef3ba1c18dc4d8229a54d0346aa6cf7a6d2c26c
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:989a709f95857e95617406dedb0f35d36cbecf2a844b7fe2ae9a6b2ca54654aa

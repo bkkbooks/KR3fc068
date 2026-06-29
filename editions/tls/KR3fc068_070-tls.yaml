@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙斗同乙水易同庚坤倍乙斗即如乙斗并庚坤得庚乙二率五少四率五多六率一為五分之弦減庚坤二率二少四率一得乙坤二率三少四率四多六率一丙乙二率乘之甲乙一率除之得坤兌三率三少五率四多七率一半之得坤氐三率一又二之一少五率二多七率二之一加戊坤三率三少五率一戊坤同丁斗得戊氐三率四又二之一少五率三多七率二之一為六分之矢如置戊坤三率三少五率一被之得三率六少五率二乾兌同戊坤倍戊坤即如戊坤并乾兌加坤兌三率三少五率四多七率一得戊乾三率九少五率六多七率一為六分之倍矢減乾兌三率三少五率一得戊兌三率六少五率五多七率一丙乙二率乘
+  hash: sha256:4a4815c8d6379ecfea348527f6472ac7cabdcc7a76f56d85276fb561a9dfeffd
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:e742cd4ddb9ba9db90ae8c89b60987a317d582cb87aa8a18a160de16dd1c1ba2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十一萬五千九百二十六即圜周第二術通弧求通弦術曰以通弧為第一數寄左次以半徑為連比例第一率通弧為第二率二率自乘一率除之得第三率次置第一數以三率乘之一率除之得第四率四除之又二除之三除之為第二數應減寄又次置第二數以三率乘之一率除之得第六率四除之又四除之五除之為第三數應加寄左次置第三數以三率乘之一率除之得第八率四除之又六除之七除之為第四數應減寄右第一數第三數相并第二數弟四數相并左右相減
+  hash: sha256:00078bd81fa0ce8acccc50e965fbfa26c286cf7bbc613fdde8c45036a06a588c
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:7f9a5870e3feb1cfab2345011b39fb22b0b9276780ad4dbc2ee9c31586052d4f

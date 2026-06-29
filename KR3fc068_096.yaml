@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/96
+seq: 96
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖舉八率以上為例分為八列第一列常為一三角堆跟數之差也一加一為二又加一為三又加一為四第二列為一二三
+  hash: sha256:980bec140e5f96ed9a11bea75bda9d76fca24e97a6c55d8a90dfcd2fca399b23
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:b97092a4a51206ed40839ec881d988bcb4253acf90c744087713a777e8ee3033

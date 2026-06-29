@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/154
+seq: 154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖舉三分通弦八率以上為例為通弦求弧諸率之所自出三分通弦為二率三少四率一今求二率三之全數弧分數恆同於二率數析分愈密則二率即弧分矣則以通弦為第一數數
+  hash: sha256:258400ba2f874d39decc9667e65b84bfe1ec008df73c907fbeca1ef5e18c5b9e
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:ba77a4198cdda14e7c7ae35b548d697882827c4b23ecf8b00f7d01fd410efb3a

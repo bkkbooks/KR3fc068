@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/130
+seq: 130
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖甲乙為弧分甲乙丙丁為弧分自乘正方形甲戊為甲乙之半即根數本以弧分減半為根故甲戊得甲乙之半甲丙為倍根數已甲戊為廣甲丙為長成甲戊丙辛帶縱平方形本以根與倍根相乘為帶縱平方積甲乙既為弧分甲戊既為弧分之半則
+  hash: sha256:3ee1a3ec931582b8bbeaa9872666b0d029c2008f51abd5daf249535cb918a44d
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:2f831e1c988f12a50dd9c103f45c5739d9e77c3c147ee16cd828d5b0203dbb46

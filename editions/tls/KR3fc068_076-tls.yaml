@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百有五多十一率三十八又二之一少十三率七多十五率二之一為十四分之矢壬亥三率四十九少五率一百九十六多七率二百九十四少九率二百一十多十一率七十七少十三率十四多十五率一為十四分之倍矢未乙二率十五少四率一百四十多六率三百七十八少八率四百五十多十率二百七十五少十二率九十多十四率十五少十六率一為十五分之弦癸畢三率三十二少五率一百六十八多七率三百三十六少九率三百三十多十一率一百七十六少十三率五十二多十五率八少十七率二之一為十六分之矢癸翼三率六十四少五率三百三十六多七率六百七
+  hash: sha256:d0a6b46c1ab933039700913f98fbeb387c7561221e1e210c4e9f1388ceaad298
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:f388f87bb9aec7eee34caf098977890bba4ebe178c5cbc2ebf42cf760c8e0a20

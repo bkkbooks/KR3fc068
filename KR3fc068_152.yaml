@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/152
+seq: 152
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陽湖董祐成弦求弧連比例諸率遞降圖
+  hash: sha256:6ef1a5faa172bca18b5b73f415a6f711fdcfa812c3fa153aeefdb4a08f13f39f
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:8c25be9083604515643489b2710fc361966239044e329d35bdbe028b34160e5b

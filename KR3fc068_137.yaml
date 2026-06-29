@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/137
+seq: 137
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為長三率為高與弧分自乘減四為面冪三率為高之磬折立方積為一與四故置弧分自乘減四為磬折面冪以三率成之為磬折立方積四除之為帶縱立方積又三除之四除之得三乘方錐堆積即為五率
+  hash: sha256:adc232331601e80762753a1de2eb1b5ae804394c71c13ba1827423db66b50bb2
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:74eff77ee40a9d93e554c124c9102f157032699d709949b4bf3d464f4a92dfd9

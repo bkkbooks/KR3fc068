@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/169
+seq: 169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖舉九率以上為例為矢求通弧之諸率如上既得諸率當求其遞增之差立為通術圖中弦之二率四率矢之三率五率皆與弧求弦矢數等故術亦同六率以降率數驟增而弦自三分矢自四分以下諸率即無盡
+  hash: sha256:5be464d110f84d5e1f463fbdc9fdf18e392e12fdf91b75ca08117b0ec1ff2262
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:0ce1dd332fe8c92e09f8c6522755235d1cff60d8459a379cac805d36033e5a6e

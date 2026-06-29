@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分數雖不同皆起於二率之一遞加遞積以成諸率則以堆垛術馭之無不同者割圜連比例之法所由立也弦矢連比例諸率成遞加數圖
+  hash: sha256:96f0b78efc5f83ca80593ffd5d3e98cb5231cdc7f0c3f7c90cc059eb178dc5e8
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:85c134608d33d7c153d657920ffd2861ad7f5c5e0afa729d1354d31df9234cfa

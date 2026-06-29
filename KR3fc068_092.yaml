@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/92
+seq: 92
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三率一水斗三率二坤兌三率三巺離三率四倍矢上下一端之三率為一三六十如遞加相并數丁水三率一戊坤三率三己巺三率六庚箕三率十弦左右一端之四率同水火四率一斗亢四率三兌角四率六離尾四率十率數遞降而遞加相并數亦遞增而二率起一分三率起二分四率起三分五率起四分皆遞差一位弦矢中一分與兩端之一既並如遞加相并數則即以遞加相并數按層斜列之倍下一列數加上一列數即可按次而得弦矢諸率夫遞加相并諸數即三角堆諸數也故又以三角堆之數變之弦矢連比例諸率成三角堆圖
+  hash: sha256:d4fc36d9a9c1234e92795e2db0047ec65c47d987b5594cac534d6c5ebc668631
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:fa7a52c2b07f7b7876a2d7d5d3d4a4abd8c607fad4b284a7cd69ec142250b42c

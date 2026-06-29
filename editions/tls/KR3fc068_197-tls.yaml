@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/197
+seq: 197
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為廣加二為長十三率以弧分五乘減二為廣加二為長法亦一貫則以此長廣相乘為帶縱平方冪七率乘之為帶縱立方積七除之八除之可得九率而所有之帶縱立方積為弧分自乘又九乘減四七率乘之所成磬折立方積四之一故置弧分自乘又九乘之減四為磬折冪七率乘之為磬折立方積四除之為帶縱立方積又七除之八除之即得九率
+  hash: sha256:2a1f65d90293c9a9acdd15cc9eced6db1f8861e382672d4b0f9d08e37981d6a3
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:48abcc70280ff1446c038b11b8e9d1df74c4c44dd09f4d8f92c505f4e69af725

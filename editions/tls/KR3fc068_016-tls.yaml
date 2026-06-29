@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第五術弧背求正矢術曰以半徑為連比例第一率弧背為第二率二率自乘一率除之得第三率二除之為第一數寄左次置第一數以三率乘之一率除之得第五率三除之四除之為第二數應減寄右次置第二數以三率乘之一率除之得第七率五除之六除之為第三數應加寄左次置第三數以三率乘之一率除之得第九率七除之八除之為第四數應減寄右第一數第三數相并第二數第四數相并左右相減所餘即正矢第六術
+  hash: sha256:983795bdbde7d32db59fbd94531e53ef439bb9b0e3b6a0df4ebf4e4532905a43
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:9959f0794aa4ae26b28e71b5ae7f37044cf8bf4a9e911a04d7dd1b20d4a5c67c

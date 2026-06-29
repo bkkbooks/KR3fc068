@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/182
+seq: 182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖甲丙為弧分甲乙丙丁為弧分自乘正方形甲戊為五倍弧分甲卯戊己為五倍弧分自乘正方形即甲
+  hash: sha256:07cfb2744eae38ead3dbdc31eb46aca95d2999471781d5efcfd1c432d9944a40
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:8426bb57b4bca52a2695abddfcd034a8b871ea355fe4858358cb007856bf607f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得通弧以減半周為所求通弧矢求通弧八乘矢過半徑以上者半徑乘倍矢開方得通弦如通弦術求得通弧倍之為所求通弧正弦求弧背正弦自乘數在半徑自乘數半以上者求得餘弦如正弦法求弧背以減象限得原所求弧背正矢求弧背倍矢過半徑以上者求得餘矢如正矢法求弧背以減象限得原所求弧背仁和范景福有借弧求正餘弦法以半徑一千萬為一率借四十五度正弦及餘弦七七一六八為二率四十五度弧與本弧相減於為較弧如法求其弦矢弦與矢相加減本弧小於借弧求正弦則加求餘弦則減大於借弧求正弦則減求餘
+  hash: sha256:2c8f641f78057ba14d370ada0db0be89f125ca506acd4cf523e9df63965b0e49
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:e5b487ca7c55598f73a10999ba82b61f163f16cb801c98e1fe18b925f11a7c74

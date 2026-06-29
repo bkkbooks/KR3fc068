@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/165
+seq: 165
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖舉四分之矢九率以上為例為矢求通弧諸率之所自出矢首位三率雖同而實數則少當遞求諸率以相加而得三率之全數四分之倍矢為三率四少五率一即用為三率如法以求諸率法與前所列三分通弦同惟用數互異不復贅列是以四分支倍矢為三率以求諸率應即倍矢本數加五率一又加七率二之一又加九率十六之五十一率以下數亦無盡而得以半弧分為二率所求之三率也六分以下亦依次遞求並以遞加之差齊而比例生矣
+  hash: sha256:99b58aa576abf7c0a8c5d5340f1a587f86f7dcc09c997bf925f3a0821b1c3fc0
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:dff195789c97427834f7b0a77d4ab9b1f7562871923f3564e89475f9ec3b19af

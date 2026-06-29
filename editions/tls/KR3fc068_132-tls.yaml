@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 必為弧分自乘甲乙丙丁平方積二之一矣凡求四率所得之帶縱平方積以根數為廣根數加一為長二率為高與弧分自乘減一為面冪二率為高之磬折立方積為一與四故置弧分自乘減一為磬折面冪以二率乘之為磬折立方積四除之得帶縱立方積又二除之三除之得立方錐堆積即為四率
+  hash: sha256:3c178044e3edc358be986f34b6a085c3ed2fdfcda03f4f554e0a9b7d94655cc8
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:4b9a8f7ab16c0a9521c0e61cf10fa708a21c4b5d6b0f2f02fec3a8f32ffc9232

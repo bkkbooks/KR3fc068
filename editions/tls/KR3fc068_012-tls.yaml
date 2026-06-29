@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所餘即通弦第三術通弧求矢術曰以半徑為連比例第一率通弧為第二率二率自乘一率除之得第三率四除之又二除之為第一數寄左次置第一數以三率乘之一率除之得第五率四除之又三除之四除之為第二數應減寄右次置第二數以三率乘之一率除之得第七率四除之又伍除之六除之為第三數應加寄左次置第三數以三率乘之一率除之得第九率四除之又七除之八除之為第四數應減寄右地一數第三數相并第二數弟四術相并左
+  hash: sha256:8d80fa13587409712424e379d7c600fbc5bd1c0126500af1e640cdeee98b7dbe
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:4f30c0de117737007e2d9cae514dec8421e0749ca3437a513451f241d89090f4

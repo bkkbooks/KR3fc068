@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧線表設圜半徑為一千兆一度一七四五三二九二五一九九四三二度三四九六五八五三九八八六三度五二三五九八七七五五九八二九四度六九八一三一七七九七七三五度八七二六六四六二五九九七一六六度一四七一九七五五一一九六五九七度一二二一七三四七六三九六三八度一三九六二六三四一五九五四六九度一五七七九六三二六七九四八九
+  hash: sha256:f7b3e3e94efa559e19d8917ce025086b0bf11522056eb0c9ecba12e94e13db3f
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:60bb1b1d63eac5d39ebed41a07b02a6477c96b0d8e4b0e43630c50dad17d3dde

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數又以根減一與根相乘與根加一再乘與根加二三乘與根加三四乘得數兩數相并為兩帶縱四乘方積二除之三除之四除之五除之為兩四乘三角堆積乃得六率以此遞推皆置弧分以一二三四諸數遞減折半為根以根與根減一如諸乘方三角堆以根求積遞乘遞除術求得兩三角堆積並得諸率然取數過繁故復以方錐積變之別立為簡法也弦矢連比例諸率成方錐圖
+  hash: sha256:7ea78283da6d8685183730961105094cb9fbade159d54e011a125355ddae6c02
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:e23fc11d2258bc0f207709864814be452a6bb8daed27d91065d9789ba5333ea2

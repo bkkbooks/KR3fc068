@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方出於矩矩出於九九八十一圜弧也方弦矢也九九八十一遞加遞減遞乘遞除之差也方圜者天地之大體奇耦相生出於自然今得此術而方圜之率通矣爰分圖著解冠以九術原文並立弦矢互求四術都為三卷辭取易明有傷蕪冗其所未寤俟有道正焉嘉慶二十四年夏四月陽湖董祐誠
+  hash: sha256:89c9d3bbe206e066bfac4815ce16e0a1c0276d4d123657c06993626d6207f688
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:e28588542d5420c005ca1f2ff2b65318c4021b8cb64426d624e7b891c6c9e5b5

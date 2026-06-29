@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/161
+seq: 161
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖舉八率以上為例為通弦求弧之相憐比利率數矢求弧連比例諸率遞降圖
+  hash: sha256:e1386c0be036bb593b53d1c68d00e821bd78a8cf34011ef7cd45befacb4990e8
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:7d6ca9f27655c514951e1c71c9f7d670d2563c86f8713c0972cca6fce7d0c593

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陽湖董祐誠三分弧弦起算圖
+  hash: sha256:091309980b00daefdbf01f31638ffe661d88500861972baec310b74b941ac0ca
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:b12fcf9d3e7bea9bec7ad910402c69a82a4a6ab8b7c262fac51d16fd0a832841

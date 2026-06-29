@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/markers/130
+seq: 130
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc068_tls_001-p32.s8}
+  - {type: line-break, offset: 0, content: '', id: KX_8_dup29, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3fc068_tls_001-p32.s9.1}
+  - {type: line-break, offset: 21, content: '', id: KX_9_dup28, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg-start', offset: 29, content: '', id: KR3fc068_tls_001-p32.s9.2, seg_type: comm, member_ids: [KR3fc068_tls_001-p32.s9.2]}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3fc068_tls_001-p32.s9.2}
+  - {type: line-break, offset: 37, content: '', id: KR3fc068_tls_130-bkklb1}
+  - {type: 'tls:seg-end', offset: 45, content: '', id: KR3fc068_tls_001-p32.s9.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 45, content: '', id: KR3fc068_tls_001-p32.s9.3}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR3fc068_tls_001-p32.s10.1}
+  - {type: line-break, offset: 50, content: '', id: KX_10_dup27, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg-start', offset: 70, content: '', id: KR3fc068_tls_001-p32.s10.2, seg_type: comm, member_ids: [KR3fc068_tls_001-p32.s10.2, KR3fc068_tls_001-p32.s11.1]}
+  - {type: 'tls:seg', offset: 70, content: '', id: KR3fc068_tls_001-p32.s10.2}
+  - {type: line-break, offset: 71, content: '', id: KR3fc068_tls_130-bkklb2}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fc068_tls_001-p32.s11.1}
+  - {type: line-break, offset: 72, content: '', id: KX_11_dup24, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: line-break, offset: 78, content: '', id: KR3fc068_tls_130-bkklb3}
+  - {type: 'tls:seg-end', offset: 84, content: '', id: KR3fc068_tls_001-p32.s11.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3fc068_tls_001-p32.s11.2}
+  back: []
+hash: sha256:8eb3099749aef74ce66f137046999c6cdacbfb4c2493b8971cc6f2c408077225

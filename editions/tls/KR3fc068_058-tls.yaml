@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同於乙丁與丁戊之比而乙丁與丁戊之比又同於丁戊與戊己之比則甲乙半徑為連比例一率乙丁為二率丁戊為三率即為二分之倍矢戊己為四率并乙戊與乙丁等己辛與丁庚等辛壬與庚壬等為一分通弦之三倍及三二率而乙壬三分之通弦即為三倍二率少一己戊四率此即割圜法求圜容十八邊形之理自三分以下比例皆出乎此
+  hash: sha256:82fb68089b594e950f3357cbecabf92d5c8c3bc30f3b3c323c1ba5ba5157ae77
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:a0d4858c77a58890de0e02cab677ec2278115245d78fc6e58484461038bd94d4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/167
+seq: 167
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 矢求弧連比例諸率圖
+  hash: sha256:5947cbe1003862a5fec8b1124548a5a1e18d61c61b5d75153e6f51da6558056e
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:f5b13346347301185c02a9e2a3515194d368c796a869bb86abf7be3804e3a479

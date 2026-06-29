@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/146
+seq: 146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為高則成寅甲乙丁未午申子丑卯磬折立方形兩立積相較亦為四之一矣七率以下數遞進而按位乘除則無異可以類推不復圖解則凡有通弧以求弦矢諸率即以通弧作弧分為二率其求弦率者弧分自乘減一二率乘之四除之又二除之三除之為四率弧分自乘減九四率乘之四除之又四除之五除之為六率弧分自乘減二十五六率乘之四除之又六除之七除之為八率弧分自乘減四十九八率乘之四除之又八除之九除之為十率以次遞求其減數皆奇數案未自乘數其求史率者弧分自乘四除之又二除之為三率弧分自乘減四三率乘之
+  hash: sha256:3ab23b439222abfb295c0ca2c4cc9c2f01e16dff889cdc6c7cdfa2dad6a1db0d
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:6079432d89502c9e0160b3b0e2327c1a80d30a35a84d795defa8b7f9f356fb21

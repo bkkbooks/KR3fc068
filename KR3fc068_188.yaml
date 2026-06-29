@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/188
+seq: 188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 等則以半徑為通弦如通弦法求得通弧六倍之即圜周故先以三乘全徑即如六乘半徑以求通弧則徑大六倍弧亦大六倍即如六倍通弧之數蓋連比例二率與一率同則諸率皆同今通弦二率既如半徑一率則凡二率自乘一率除及三率乘一率除者皆可不用乘除矣凡矢求弧如前通弧求矢五率七率相求術以七率五成之六乘之即成帶縱立方積以五率為高弧分減四折半為廣又加四為長若以矢求弧之七率五成之六乘之亦成帶縱立方積亦以五率為高而廣則如弧分二乘減二折半長則如弧分二乘減二折半又加二弧求
+  hash: sha256:29dd65869974bfe70ead8c56d46312251c964e41493c1a7328f52d9828575fd5
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:6ea8995cde97a6beb5e6ba3fcc9f4b9c57f57b4e18c54a7e16a739ac7b331ca2

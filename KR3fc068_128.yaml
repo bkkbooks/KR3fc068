@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/128
+seq: 128
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三率故於弧分自乘二除之數易為四除也倍矢與矢本數在三率增一二除則五率以降皆當增一二除然求五率時所用之三率即矢本數已有二除在內故不復亦四除為八除七率以下並司
+  hash: sha256:6eea5e2680a3f3b014b5816f397c9703bb28adda9e9a513a44a79fcaadf5b0ea
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:94922de5b2ea48d2ef6236a9cddfe65aa9f2ed4fc2a4f90d449f60b54255cae1

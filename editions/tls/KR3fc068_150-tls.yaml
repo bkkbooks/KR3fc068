@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc068/tls/v1/juan/150
+seq: 150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則弦矢之比例悉同通弦與弧被既同用一矢而正弦得通弦之半半與半如全與全故比例皆等而弧背自乘積與通弧自乘積常為四之一邊加一倍則積加四倍以求諸率當加一四乘今不復加而諸率內並省一四除則與四成無異矣古法名通弧為弧背通弦為弦弧背為半弧背正弦為半弧弦今並仍杜氏原文無所更易至弦矢求弧則即弧求弦矢之還原如堆垛術變積求之則成一例也
+  hash: sha256:d33f0073b0dea7bc21d27300275b6b06e58d748069f3d423778a379a62427cb2
+metadata:
+  title: 割圈連比例術圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc068.xml
+hash: sha256:f7b4088932d154c471b8054fa15e37fce3ad75a2ae4f35893cef70a36a29b34c
