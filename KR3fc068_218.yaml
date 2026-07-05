@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 乘數則弦自九倍二十五倍四十九倍至億萬倍矢自四倍九倍十六倍至億萬倍弦之減數皆為一矢之減數皆為四以次遞求無不密合蓋於至繁之中得至簡之用為弧求弦矢之還原皆天地自然之數無所勉強割圜之能事畢矣
-  hash: sha256:d668a475699d2b5469576f99ff58ede9cda51a8d487ff765d2a7bbfed232a40e
+  text: 乘數則弦自九倍二十五倍四十九倍至億萬倍矢自四倍九倍十六倍至億萬倍弦之減數皆為一矢之減數皆為四以次遞求無不密合葢於至繁之中得至簡之用為弧求弦矢之還原皆天地自然之數無所勉強割圜之能事畢矣
+  hash: sha256:47988b2fb7f0f17630f896f5cd41391775c0bf6ee16b4801daec40c7b74fd227
 metadata:
   title: 割圈連比例術圖解
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc068.xml
-hash: sha256:f8f1441cf4047b037132a5837155ffdec60b7256b2c6973c5471953ce3e7c665
+hash: sha256:70885de6bc057ecec0185cb3801d6cdbb1300c93b1da0cd7dc79f439af1cf7b1
