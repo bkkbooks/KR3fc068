@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 術並見陳氏書中范氏所作其闇合歟余以垛積釋比例而三角及方錐堆三乘以下舊無其術近讀元朱世傑四元玉鑑茭草形段果垛疊藏諸問乃知遞乘遞除之術近古所有而遠西之士尚能守其遺法有足珍者爰并記之道光建元六月朔日董祐誠
-  hash: sha256:df37560d29874d417d2d03d11ad859e7459f00d8ff10f30541bf4dad8cdc325d
+  text: 術並見陳氏書中范氏所作其暗合歟余以垛積釋比例而三角及方錐堆三乘以下舊無其術近讀元朱世傑四元玉鑑茭草形段果垛疊藏諸問乃知遞乘遞除之術近古所有而遠西之士尚能守其遺法有足珍者爰并記之道光建元六月朔日董祐誠
+  hash: sha256:2a53de3e3968a6f3c19c53f0ab2ebf9d4fb407fbaeb5dbf56df7f597f327eba3
 metadata:
   title: 割圈連比例術圖解
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc068.xml
-hash: sha256:4524e5f1ffe921d55a11495380912f38b141a93ce5da535de7d0d8ad3520ed63
+hash: sha256:1faa76d9ad753a725b000c05d548271fb7c7a6826c85cb601e0e6862208024f8
